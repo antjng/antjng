@@ -1,4 +1,4 @@
-👋 Hey there! I'm Anita, and I'm a Computer Science undergraduate at McMaster University! I'm passionate about all things tech, but I'm especially keen on software engineering and AI. Outside of computer science, I love cycling, Vulfpeck, and photography.
+👋 Hey there! I'm Anita, and I'm a Computer Science undergraduate at McMaster University! I'm passionate about all things tech, but I'm especially keen on software engineering and AI. Outside of computer science, I love cycling, Vulfpeck, and mechanical pencils.
 
 <!--
 **jianganita/jianganita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
