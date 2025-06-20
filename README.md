@@ -3,6 +3,6 @@ I'm a Computer Science undergraduate at McMaster University. I'm passionate abou
 
 - 📫 Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/jianganita/) or at [jianga42@mcmaster.ca](mailto:jianga42@mcmaster.ca).
 
-- 📄 Find my resume [here](#)!
+[//]: <> (- 📄 Find my resume [here](#)!)
 
 I'm always open to collaborate with like-minded people!
