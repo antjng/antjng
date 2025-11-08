@@ -2,7 +2,7 @@
 i like making cool stuff
 
 
-[portfolio](anitajiang.me) | [connect](https://www.linkedin.com/in/antjng/) | [reach out](mailto:theanitajiang@gmail.com)
+[portfolio](https://www.anitajiang.me/) | [connect](https://www.linkedin.com/in/antjng/) | [reach out](mailto:theanitajiang@gmail.com)
 <!--
 I'm a Computer Science undergraduate at McMaster University. I'm passionate about all things tech, but I'm especially keen on machine learning, software engineering, and computational biology. Outside of computer science, I enjoy cycling, origami, and mathematics.
 
